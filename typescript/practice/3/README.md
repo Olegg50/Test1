@@ -1,0 +1,1 @@
+Function `swap` receives 2 persons and returns them in the reverse order. We just need to provide it with proper types. Also this function shouldn't necessarily be limited to just `Person` types, lets type it so that it works with any two types specified.

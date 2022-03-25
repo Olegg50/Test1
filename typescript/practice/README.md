@@ -1,0 +1,1 @@
+Practice Typescript language features and get an overview of Typescript capabilities and principles. Solving issues in numeric order is **required**.

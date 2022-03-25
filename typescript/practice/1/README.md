@@ -1,0 +1,1 @@
+Fix type errors in `logPerson` function. `logPerson` function should accept both `User` and `Admin` and should output relevant information according to the input: occupation for `User` and `role` for `Admin`.
